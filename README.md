@@ -1,6 +1,6 @@
 # Employee Tracker
 
-## Descritption
+## Description
 The overall purpose is to build a commnad-line application to manage a company's employee database using Node.js, inquirer and MySQL.
 This is specific for a business owner who wants to view and manage the departments, roles and employees in their company. 
 
