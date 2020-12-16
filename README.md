@@ -24,3 +24,4 @@ The user is given a command- line application that accepts their inputs. The fol
 
 ## Mock up
 The followig video/animation shows an exmaple of the applicantion being used from the CLI:
+<iframe src="https://drive.google.com/file/d/1a5-WqLYukeBxLh_ezGvmgdsslRyXBNIB/preview" width="640" height="480"></iframe>
